@@ -1,6 +1,6 @@
 # Menghitung luas dan keliling lingkarn menggunakan `Python`
 
-1. Buat File bernama LuasKelilingLingkaran.py
+1. Buat File sesuai kengininan Contoh: HitungLuasKelilingLingkaran.py
 2. Berikut Flowchart untuk menghitung luas dan keliling lingkaran
 
    ![flow](Pict/FlowChart.png)
@@ -43,11 +43,11 @@
 
     ```
 
-4. Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
+4. Ketika diRuning Inputan Jari jari dan Berikut Hasil nya
 
-  ![Hasil](Pict/Hasil_Hitung.png))
+  ![Hasil](Pict/Hasil_Hitung.png)
 
-5. Selesai Begitulah cara menghitung luas dan keliling Lingkaran# Praktikum3
-6. 
-7. # Terimaksih
-8. "Garnish Andhika Pratama"
+5. Selesai Inilah cara menghitung luas dan keliling Lingkaran# Praktikum3
+   
+6. # Terimaksih
+7. "Garnish Andhika Pratama"
